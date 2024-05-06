@@ -1,0 +1,30 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header, hr {
+    margin-top: 15px;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header img {
+    width: 60px;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 19px;
+}
+
+header hr {
+    background-color: #000;
+    border: 0;
+    height: 2px;
+}

@@ -1,0 +1,14 @@
+
+.curti {
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
+
+.curti:hover {
+    opacity: 0.8;
+}
+
+.btnMaisDetalhes {
+    cursor: pointer;
+}

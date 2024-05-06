@@ -1,0 +1,21 @@
+main {
+    margin: 0 4%;
+}
+
+hr {
+    height: 1.5px;
+    background-color: #000;
+    border: none;
+}
+
+b {
+    font-size: 22px;
+}
+
+input {
+    border: 0;
+    border-radius: 8px;
+    background-color: rgb(31, 196, 31);
+    padding: 5px;
+    box-shadow: 3px 3px #1E8649
+}
