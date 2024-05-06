@@ -12,3 +12,7 @@
 .btnMaisDetalhes {
     cursor: pointer;
 }
+
+p {
+    margin-top: 10px;
+}
